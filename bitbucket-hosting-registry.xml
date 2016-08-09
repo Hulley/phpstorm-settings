@@ -1,0 +1,20 @@
+<application>
+  <component name="BitbucketHostingRegistry">
+    <hostings>
+      <HostingBean>
+        <baseRestUri>https://api.bitbucket.org/2.0/</baseRestUri>
+        <baseUri>https://bitbucket.org/</baseUri>
+        <id>0555dbc4-8875-4b2c-854e-9d8eb16c8b81</id>
+        <type>CLOUD</type>
+      </HostingBean>
+    </hostings>
+    <accessMap>
+      <entry value="0555dbc4-8875-4b2c-854e-9d8eb16c8b81">
+        <HostingAccessBean>
+          <host>bitbucket.org</host>
+          <port>-1</port>
+        </HostingAccessBean>
+      </entry>
+    </accessMap>
+  </component>
+</application>
