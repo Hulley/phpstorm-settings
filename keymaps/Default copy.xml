@@ -1,0 +1,50 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="Jdbc.OpenTableEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+</keymap>
